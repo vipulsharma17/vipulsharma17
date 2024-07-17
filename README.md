@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">Python/Data enthusiast from Pune,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="vipulsharma17" /> </p>
+<p align="left"> <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vipuldsharma" target="blank"><img src="https://img.shields.io/twitter/follow/vipuldsharma?logo=twitter&style=for-the-badge" alt="vipuldsharma" /></a> </p>
 

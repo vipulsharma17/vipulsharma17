@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipul</h1>
+<h1 align="center">Hello 👋, I'm Vipul</h1>
 <h3 align="center">Python/Data enthusiast from Pune,India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
